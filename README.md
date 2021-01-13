@@ -6,5 +6,3 @@ Elo implementation in Python by Deniz Karakay for Git101 event
 
 "Test branch içerisindeyim"
 
-"fds"
-
